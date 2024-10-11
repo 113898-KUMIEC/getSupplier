@@ -1,0 +1,12 @@
+{
+  "suppliers": [
+    {
+      "id": 1,
+      "business_name": "EPEC"
+    },
+    {
+      "id": 2,
+      "business_name": "ECOGAS"
+    }
+  ]
+}
