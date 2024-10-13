@@ -2,11 +2,13 @@
   "suppliers": [
     {
       "id": 1,
-      "business_name": "EPEC"
+      "business_name": "EPEC",
+      "cuit": "20-12345678-7"
     },
     {
       "id": 2,
-      "business_name": "ECOGAS"
+      "business_name": "ECOGAS",
+      "cuit": "20-12345678-7"
     }
   ]
 }
