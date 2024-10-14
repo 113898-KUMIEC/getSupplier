@@ -8,9 +8,58 @@
     },
     {
       "id": 2,
-      "name": "RAUL",
-      "cuit": "20-87654321-7",
-      "type": "EMPLOYEE"
+      "name": "Aguas Cordobesas",
+      "cuit": "20-34567890-1",
+      "type": "SUPPLIER"
+    },
+    {
+      "id": 3,
+      "name": "Telecom Argentina",
+      "cuit": "20-45678901-2",
+      "type": "SUPPLIER"
+    },
+    {
+      "id": 4,
+      "name": "Gas Natural Fenosa",
+      "cuit": "20-23456789-0",
+      "type": "SUPPLIER"
+    },
+    {
+      "id": 5,
+      "name": "Seguridad Privada Córdoba",
+      "cuit": "20-56789012-3",
+      "type": "SUPPLIER"
+    },
+    {
+      "id": 6,
+      "name": "Jardinería Verde Vida",
+      "cuit": "20-67890123-4",
+      "type": "SUPPLIER"
+    },
+    {
+      "id": 7,
+      "name": "Limpiezas Barriales S.A.",
+      "cuit": "20-78901234-5",
+      "type": "SUPPLIER"
+    },
+    {
+      "id": 8,
+      "name": "Constructora Córdoba",
+      "cuit": "20-89012345-6",
+      "type": "SUPPLIER"
+    },
+    {
+      "id": 9,
+      "name": "Pinturas La Pampa",
+      "cuit": "20-90123456-7",
+      "type": "SUPPLIER"
+    },
+    {
+      "id": 10,
+      "name": "Iluminación Plus",
+      "cuit": "20-01234567-8",
+      "type": "SUPPLIER"
     }
   ]
 }
+
