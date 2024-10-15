@@ -3,62 +3,52 @@
     {
       "id": 1,
       "name": "EPEC",
-      "cuit": "20-12345678-7",
-      "type": "SUPPLIER"
+      "cuit": "20-12345678-7"
     },
     {
       "id": 2,
       "name": "Aguas Cordobesas",
-      "cuit": "20-34567890-1",
-      "type": "SUPPLIER"
+      "cuit": "20-34567890-1"
     },
     {
       "id": 3,
       "name": "Telecom Argentina",
-      "cuit": "20-45678901-2",
-      "type": "SUPPLIER"
+      "cuit": "20-45678901-2"
     },
     {
       "id": 4,
       "name": "Gas Natural Fenosa",
-      "cuit": "20-23456789-0",
-      "type": "SUPPLIER"
+      "cuit": "20-23456789-0"
     },
     {
       "id": 5,
       "name": "Seguridad Privada Córdoba",
-      "cuit": "20-56789012-3",
-      "type": "SUPPLIER"
+      "cuit": "20-56789012-3"
     },
     {
       "id": 6,
       "name": "Jardinería Verde Vida",
-      "cuit": "20-67890123-4",
-      "type": "SUPPLIER"
+      "cuit": "20-67890123-4"
     },
     {
       "id": 7,
       "name": "Limpiezas Barriales S.A.",
-      "cuit": "20-78901234-5",
-      "type": "SUPPLIER"
+      "cuit": "20-78901234-5"
     },
     {
       "id": 8,
       "name": "Constructora Córdoba",
-      "cuit": "20-89012345-6",
-      "type": "SUPPLIER"
+      "cuit": "20-89012345-6"
     },
     {
       "id": 9,
       "name": "Pinturas La Pampa",
-      "cuit": "20-90123456-7",
-      "type": "SUPPLIER"
+      "cuit": "20-90123456-7"
     },
     {
       "id": 10,
       "name": "Iluminación Plus",
-      "cuit": "20-01234567-8",
-      "type": "SUPPLIER"
+      "cuit": "20-01234567-8"
     }
   ]
 }
